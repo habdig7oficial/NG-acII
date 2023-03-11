@@ -1,0 +1,7 @@
+{
+  "name": "NG-acII",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
